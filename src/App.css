@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme{
+  --color-morado-1: #A54C90;
+  --color-morado-2: #F6BDF9;
+  --color-morado-3: #884879;
+  --color-morado-4: #7B61FF;
+  --color-texto-1: #424352;
+  --color-titulo-1: #231F40;
+  --color-verde-1: #27B94E;
+  --color-amarillo-1: #FFA41B;
+  --color-celeste-1: #1A6C7F;
+}
